@@ -1,0 +1,58 @@
+body{
+  font-family: 'ZCOOL XiaoWei', serif;
+  background-color: #0E3360;
+  text-align: center;
+  border: 45px solid #B2EDC5;
+  border-top: 0px;
+  margin: 0px;
+}
+
+h1{
+  color: white;
+}
+
+#h20{
+  color:white;
+}
+
+#h21{
+  color: white;
+  padding-bottom: 80px;
+}
+
+#h22{
+  color: white;
+  padding-bottom: 4%;
+}
+
+p{
+  color: white;
+  margin: auto;
+  width: 50%;
+  padding-bottom: 5%;
+}
+
+h3{
+  color: white;
+}
+
+.lab{
+  color: white;
+}
+
+input[type='text'],
+  input[type='email']{
+  width: 18%;
+  padding-bottom: 20px;
+  margin-bottom: 0.5%;
+  font-size: 20px;
+}
+
+#button{
+  border: 1px solid white;
+  border-radius: 20px;
+  background-color: yellow;
+  padding: 25px;
+  margin-bottom: 0.25%;
+
+}
