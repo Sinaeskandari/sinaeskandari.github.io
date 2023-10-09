@@ -12,7 +12,7 @@ Hello, I'm Sina. I graduated from Iran University of Science and Technology(IUST
 
 Education
 ======
-* Bachelor of Science in Computer Engineering, Iran University of Science and Technology, 2018 - 2023, Overall GPA: 3.37/4, Last Two Year GPA: 3.93/4
+* Bachelor of Science in Computer Engineering, Iran University of Science and Technology, 2018 - 2023, Overall GPA: **3.37/4**, Last Two Year GPA: **3.93/4**
 
 Research Interests
 ======
@@ -54,3 +54,49 @@ Teaching Experience
   * Instructor: Dr. Vesal Hakami
 
 
+Selected Projects
+======
+* [COVID-19 Prediction From Chest XRay Images](https://github.com/Sinaeskandari/COVID-19-Prediction-From-XRay-Images) | Deep learning, Transfer learning, Pytorch | Fall 2022
+  * Final project of IUST’s deep learning course.
+  * Implementation of ["Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer Learning"](https://arxiv.org/abs/2004.09363v3).
+  * Resnet18 was fine-tuned on a new custom dataset.
+
+* [Tile Crack Segmentation](https://github.com/Sinaeskandari/Tile-Crack-Segmentation) | Deep learning, Computer vision, Semantic segmentation, Keras | Fall 2022
+  * Final project of IUST's computer vision course.
+  * Implementation of the U-Net model to segment cracks in tile pictures.
+  * The challenge of this project was the design of the tiles, which had shapes that were similar to cracks.
+
+* [Improving 5G Intrusion Detection with Synthetic Data and Transformer-Based Classification](https://github.com/Sinaeskandari/Improving-5GIDS-Synth-Data-Transformers) | Deep Learning, Generative Adversarial Networks, Transformer, Unbalanced Dataset | Spring 2023
+  * This is my final thesis under the supervision of Dr. Vesal Hakami.
+  * I address the issue of class imbalance in the existing datasets. I mainly focus on the [5G-NIDD](https://arxiv.org/abs/2212.01298) dataset.
+  * A conditional GAN model was used to generate data for the purpose of balancing the dataset.
+  * I used the [FT-Transformer](https://arxiv.org/abs/2106.11959) architecture for classification and managed to improve the performance on the dataset compared to other methods.
+
+* [IMDB Movie Genre Classification](https://github.com/Sinaeskandari/COVID-19-Prediction-From-XRay-Images) | Deep Learning, NLP, Keras | Winter 2022
+  * Final project of IUST's NLP course.
+  * Multi-label classification of movie genres based on their plot.
+  * The IMDB website was crawled in order to collect the dataset. Afterwards, preprocessing methods were used.
+  * Three models were implemented for classification: Simple dense model, LSTM based model, CNN based model.
+
+Technical Skills
+======
+* Programming Languages: Python, Javascript, Java, C, Bash, Matlab
+* ML/DL Tools: Tensorflow, Keras, Pytorch, scikit-learn, OpenCV, Numpy, Pandas, Matplotlib
+* Web Development: Django, Flask, FastAPI, React, HTML, CSS
+* Devops/Databases: Docker, Kubernetes, PostgreSQL, Redis, Elasticsearch, Nginx
+* Others: Git, Linux, Latex, Grafana, Prometheus, Kibana, ANTLR, Selenium
+
+Languages
+======
+* Persian: Native
+* English: Fluent(IELTS: **Overall: 8**, Listening: 9, Reading: 9, Writing: 7, Speaking: 7)
+
+References
+======
+* [Dr. Nasser Mozayani](https://scholar.google.com/citations?user=LAAM5tEAAAAJ&hl=en)
+ * Associate Professor, School of Computer Engineering at Iran University of Science and Technology
+ * [mozayani@iust.ac.ir](mailto:mozayani@iust.ac.ir)
+
+* [Dr. Vesal Hakami](https://scholar.google.com/citations?user=l3D_gCAAAAAJ&hl=en)
+ * Assistant Professor, School of Computer Engineering at Iran University of Science and Technology
+ * [vhakami@iust.ac.ir](mailto:vhakami@iust.ac.ir)
