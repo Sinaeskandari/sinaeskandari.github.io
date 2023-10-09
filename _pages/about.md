@@ -94,9 +94,9 @@ Languages
 References
 ======
 * [Dr. Nasser Mozayani](https://scholar.google.com/citations?user=LAAM5tEAAAAJ&hl=en)
- * Associate Professor, School of Computer Engineering at Iran University of Science and Technology
- * [mozayani@iust.ac.ir](mailto:mozayani@iust.ac.ir)
+  * Associate Professor, School of Computer Engineering at Iran University of Science and Technology
+  * [mozayani@iust.ac.ir](mailto:mozayani@iust.ac.ir)
 
 * [Dr. Vesal Hakami](https://scholar.google.com/citations?user=l3D_gCAAAAAJ&hl=en)
- * Assistant Professor, School of Computer Engineering at Iran University of Science and Technology
- * [vhakami@iust.ac.ir](mailto:vhakami@iust.ac.ir)
+  * Assistant Professor, School of Computer Engineering at Iran University of Science and Technology
+  * [vhakami@iust.ac.ir](mailto:vhakami@iust.ac.ir)
