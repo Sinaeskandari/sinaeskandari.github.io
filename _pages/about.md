@@ -91,6 +91,31 @@ Languages
 * Persian: Native
 * English: Fluent(IELTS: **Overall: 8**, Listening: 9, Reading: 9, Writing: 7, Speaking: 7)
 
+Selected Courses
+======
+| Course                              | Grade |
+|-------------------------------------|-------|
+| Deep Learning                       | A+    |
+| Computer Vision                     | A     |
+| Natural Language Processing         | A     |
+| System Analysis and Design          | A+    |
+| Software Engineering                | A+    |
+| Data Structure                      | A+    |
+| Signals and Systems                 | A     |
+| Computer Security                   | A+    |
+| Database Design                     | A     |
+| Differential Equations              | A+    |
+| Object Oriented Analysis and Design | A     |
+| Internet Engineering                | A     |
+
+Cetifiactes
+======
+* [Neural Networks and Deep Learning](https://coursera.org/share/e06e3a86c2ca8b9b20e2b14bfabcc923)
+* [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/cb53e77e824a974cfb00a4efa790e002)
+* [Structuring Machine Learning Projects](https://coursera.org/share/d707282260a298964a2ae94045681993)
+* [Convolutional Neural Networks](https://coursera.org/share/e9ed667b7830f8ea44cc62d74e2a9fc8)
+* [Sequence Models](https://coursera.org/share/1b9e311bf72fbd3c0f7b561815957d98)
+
 References
 ======
 * [Dr. Nasser Mozayani](https://scholar.google.com/citations?user=LAAM5tEAAAAJ&hl=en)
