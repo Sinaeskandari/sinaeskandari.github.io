@@ -26,7 +26,7 @@ Research Experience
 * Research Assistant: April 2023 - Now
   * Computer Vision Lab at IUST under supervision of Dr. Mohammad Reza Mohammadi
   * Worked on anomaly localization techniques using Variational Autoencoders (VAEs) and analyzed attention maps as well as GradCAM (Gradient-weighted Class Activation Mapping) for precise localization.
-  * Conducted researched on out-of-distribution detection methods, including post hoc techniques such as Null Space Analysis and Virtual Logit Matching.
+  * Conducted researched on out-of-distribution detection methods, including post hoc techniques such as Null Space Analysis.
   * Contributed to advancing the field of machine learning by leveraging out-of-distribution detection methods to identify incorrect labels during the training phase, enhancing model robustness and accuracy.
   * Gained hands-on experience in deep learning frameworks and tools such as TensorFlow or PyTorch, enhancing proficiency in model development and experimentation.
 
