@@ -93,20 +93,18 @@ Languages
 
 Selected Courses
 ======
-| Course                              | Grade |
-|-------------------------------------|-------|
-| Deep Learning                       | A+    |
-| Computer Vision                     | A     |
-| Natural Language Processing         | A     |
-| System Analysis and Design          | A+    |
-| Software Engineering                | A+    |
-| Data Structure                      | A+    |
-| Signals and Systems                 | A     |
-| Computer Security                   | A+    |
-| Database Design                     | A     |
-| Differential Equations              | A+    |
-| Object Oriented Analysis and Design | A     |
-| Internet Engineering                | A     |
+* Deep Learning: A+
+* Computer Vision: A
+* Natural Language Processing: A
+* System Analysis and Design: A+
+* Software Engineering: A+
+* Data Structure: A+
+* Signals and Systems: A
+* Computer Security: A+
+* Database Design: A
+* Differential Equations: A+
+* Object Oriented Analysis and Design: A
+* Internet Engineering: A
 
 Cetifiactes
 ======
