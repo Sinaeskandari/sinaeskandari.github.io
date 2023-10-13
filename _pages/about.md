@@ -49,6 +49,10 @@ Teaching Experience
   * Fall 2023
   * Instructor: Dr. Nasser Mozayani
 
+* Software Engineering
+  * Fall 2023
+  * Instructors: Dr. Behrouz Minaei-Bidgoli, Dr. Mehrdad Ashtiani
+
 * Internet Engineering
   * Fall 2022
   * Instructor: Dr. Vesal Hakami
