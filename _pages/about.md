@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Sina. I graduated from Iran University of Science and Technology(IUST) with Bachelor of Science in Computer Engineering. Currently, I work as a research assistant at Computer Vision Lab of IUST. My research interests are Deep Learning, Computer Vision, Natural Language Processing and Machine Learning. My journey involves unraveling the possibilities at the intersection of technology and artificial intelligence, contributing to the ever-evolving landscape with a solid foundation from my studies.
+Hello, I'm Sina. I am currently pursuing a master's degree in Computer Engineering at Politecnico di Torino. I graduated from Iran University of Science and Technology (IUST) with a Bachelor of Science in Computer Engineering. My research interests are Deep Learning, Computer Vision, Natural Language Processing, and Machine Learning. My journey involves unraveling the possibilities at the intersection of technology and artificial intelligence, contributing to the ever-evolving landscape with a solid foundation from my studies.
 
 Education
 ======
 * Bachelor of Science in Computer Engineering, Iran University of Science and Technology, 2018 - 2023, Overall GPA: **3.37/4**, Last Two Year GPA: **3.93/4**
+* Master of Science in Computer Engineering, Politecnico di Torino, 2024 - Now
 
 Research Interests
 ======
@@ -23,7 +24,7 @@ Research Interests
 
 Research Experience
 ======
-* Research Assistant: April 2023 - Now
+* Research Assistant: April 2023 - December 2023
   * Computer Vision Lab at IUST under supervision of Dr. Mohammad Reza Mohammadi
   * Worked on anomaly localization techniques using Variational Autoencoders (VAEs) and analyzed attention maps as well as GradCAM (Gradient-weighted Class Activation Mapping) for precise localization.
   * Conducted researched on out-of-distribution detection methods, including post hoc techniques such as Null Space Analysis.
